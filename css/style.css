@@ -88,6 +88,31 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 
+.hoverglow {
+  color: #fefdff;
+  text-shadow: 0 0 2px #c770f0;
+}
+
+.fa-file-alt:hover {
+  color: #c770f0;
+}
+
+.fa-linkedin:hover {
+  color: #c770f0;
+}
+
+.fa-github:hover {
+  color: #c770f0;
+}
+
+.fa-envelope:hover {
+  color: #c770f0;
+}
+
+.fa-quote-right:hover {
+  color: #c770f0;
+}
+
 @media only screen and (max-width: 1000px) {
   h1 {
     font-size: 15px;

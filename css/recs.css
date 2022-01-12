@@ -26,7 +26,7 @@ body {
     width: 100%;
     height: auto;
     font-size: 16px;
-    font-family: Dubai-Light;
+    font-family: Dubai-Light, sans-serif;
 		background: rgb(0, 0, 0);
 }
 .testim {
